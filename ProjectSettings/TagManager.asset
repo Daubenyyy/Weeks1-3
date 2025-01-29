@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - neck
+  - body
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 731779767
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 741053339
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 4112409765
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3967385721
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 4222554875
     locked: 0
